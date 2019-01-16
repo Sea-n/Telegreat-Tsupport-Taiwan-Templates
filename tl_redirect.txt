@@ -1,0 +1,142 @@
+{URL}
+https://raw.githubusercontent.com/Sea-n/Telegreat-Tsupport-Taiwan-Templates/master/tl_redirect.txt
+
+{COMMENT}
+These templates can be used to forward users to other TSF teams.
+Quite handy if the user is speaking in a language you don't understand.
+
+{QUESTION}
+Forward to DE
+{KEYS}
+de
+{VALUE}
+contact:+42449 Deutschsprachiger Support
+Ich verstehe dich leider nicht. So so lieb und kontaktiere bitte das deutschsprachige Helfer-Team. Vielen Dank.
+
+PS: Unter https://t.me/telegramDE hat das Helfer-Team einen Infokanal eingerichtet.
+
+{QUESTION}
+Forward to FR
+{COMMENT}
+If your support account is +42400, please don't use this one. ;)
+{KEYS}
+fr
+{VALUE}
+contact:+42400 Support France
+Bonjour, malheureusement je ne peux pas vous répondre en Français. Si vous ne comprenez pas l'Anglais, pourriez vous contacter notre support International au +42400? Nous n'avons pas beaucoup de francophones dans l'équipe, cela peut donc prendre un peu de temps pour vous répondre... Désolé pour le délai.
+
+{QUESTION}
+Forward to US
+{KEYS}
+us
+{VALUE}
+contact:+42410 Support USA
+Please contact our local support team in the US.
+
+{QUESTION}
+Forward to NL
+{KEYS}
+nl
+{VALUE}
+contact:+42431 Support Nederland
+Neem dan contact op met ons lokale support team.
+
+{QUESTION}
+Forward to ES
+{KEYS}
+es
+{VALUE}
+contact:+42434 Soporte España
+Por favor, ponte en contacto con nuestro equipo de soporte local en España.
+
+{QUESTION}
+Forward to IT
+{KEYS}
+it
+{VALUE}
+contact:+42439 Supporto Italia
+Si prega di contattare il nostro team di supporto Italiano.
+
+{QUESTION}
+Forward to LA
+{KEYS}
+la
+{VALUE}
+contact:+42450 Support América Latina
+Por favor, ponte en contacto con nuestro soporte local para América Latina.
+
+{QUESTION}
+Forward to RU
+{KEYS}
+ru
+{VALUE}
+contact:+42470 Русскоязычная поддержка
+Пожалуйста, свяжитесь с нашей русскоязычной командой поддержки.
+
+{QUESTION}
+Forward to IN
+{KEYS}
+in
+{VALUE}
+contact:+42490 Support India
+Please contact our local support in India.
+हमारे स्थानीय समर्थन टीम से संपर्क करें
+
+{QUESTION}
+Forward to KR
+{KEYS}
+kr
+{VALUE}
+contact:+42482 Support 지원팀
+안녕하세요? 한국어로 도움이 필요하실 경우 +42482 으로 연락을 주시면 한국어가 가능한 서포터분이 도움을 드릴 예정입니다.
+참고로 한국어 서포터분은 한분밖에 없기 때문에 회신 드리는데 시간이 조금 소요되는 점 양해부탁드립니다. 감사합니다.
+
+{QUESTION}
+Forward to BR
+{KEYS}
+br
+{VALUE}
+contact:+42455 Support Brasil
+Olá! Infelizmente não entendemos português, mas nós temos uma equipe no Brasil. Por favor, contate-os. Obrigado.
+
+{QUESTION}
+Forward to ID
+{KEYS}
+id
+{VALUA}
+contact:+42460 Dukungan Asia Tenggara
+Silahkan hubungi tim dukungan lokal kami di Asia Tenggara.
+
+{QUESTION}
+Forward to MY
+{KEYS}
+my
+{VALUE}
+contact:+42460 Sokongan Asia Tenggara
+Sila hubungi pasukan sokongan tempatan kami di Asia Tenggara.
+
+{QUESTION}
+Forward to UZ
+{KEYS}
+uz
+{VALUE}
+contact:+42479 Support O'zbekiston
+Iltimos, O'zbekistondagi qo'llab-quvvatlash jamoamiz bilan bog'laning.
+
+{QUESTION}
+Forward to AR
+{KEYS}
+ar
+{VALUE}
+contact:+424960 Arabic Support
+مرحبا! للأسف لا نتحدث العربية، لكن يوجد لدينا فريق يتحدث العربية. يرجى التواصل معهم. شكرًا لك!
+
+{QUESTION}
+Forward to IR
+{COMMENT}
+Please don't use this template for spam-related questions, we can redirect these users to @spambot right away.
+{KEYS}
+ir
+{VALUE}
+contact:+424980 Support Iran
+سلام! متأسفانه ما فارسی بلد نيستيم، ولى یک گروه داوطلبان فارسى زبان داریم. لطفاً به آنها تماس بگيريد. سپاسگزاريم!

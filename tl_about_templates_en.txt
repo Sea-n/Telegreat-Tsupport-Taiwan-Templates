@@ -1,0 +1,33 @@
+{URL}
+https://raw.githubusercontent.com/Sea-n/Telegreat-Tsupport-Taiwan-Templates/master/tl_about_templates_en.txt
+
+{COMMENT}
+This is a templates file. You can use as many different files as you like — put all of them in the /templates folder. TSupport will automatically load all your template files on startup. You can reload templates from app Settings, without restarting.
+
+To use a template, simply type one of its KEYS and press TAB. VALUE text will be inserted in the field — you can then edit it or send it right away.
+
+Each Template has several parts.
+- QUESTION is the unique identifier of the template.
+- KEYS lists the shortcuts that bring the template to life. Multiple shortcuts can serve for one template.
+- VALUE can contain the text to be inserted, but it also supports photos, files and contacts — see examples below.
+- COMMENT fields are ignored by TSupport.
+
+Template files can also have a URL tag (must always be the first tag in the file). TSupport automatically downloads new versions of the URL templates from the server when there was an update. When the file is updated, only the VALUE is changed for existing QUESTIONS from the old template file. This way you can be sure that you always keep your custom KEYS.
+
+Here are a few sample templates. All of them will work in your TSupport client.
+Try them!
+
+{QUESTION}
+How does a text template look?
+{KEYS}
+txt
+{VALUE}
+Here's a simple text template. Easy!
+
+{QUESTION}
+How about contacts?
+{KEYS}
+ctc
+{VALUE}
+contact:+42 Markus Ra
+Works with contacts as well. Ask Markus if you have more questions:

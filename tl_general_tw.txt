@@ -1,0 +1,69 @@
+{URL}
+https://raw.githubusercontent.com/Sea-n/Telegreat-Tsupport-Taiwan-Templates/master/tl_general_tw.txt
+
+{COMMENT}
+KEYS 不分大小寫，以 i 結尾代表 iOS、a 代表 Android、wp 代表 Windows Phone，不需要多講
+不同類型的 FAQ 標題以連字號 (hyphen) 包住，這樣在 Ctrl-F / CMD-F 時較好搜尋（試著搜尋 -SECRET CHATS- 看看）
+如果您有任何疑惑，歡迎開 issue 或至群組詢問
+
+{COMMENT}
+=================================
+-TRENDING-
+=================================
+
+
+{QUESTION}
+台灣用 Telegram 的人多嗎
+{KEYS}
+population
+{VALUE}
+就少少幾隻肥宅，邊緣人才用 Telegram
+
+{QUESTION}
+該怎麼添加對方為聯絡人
+{KEYS}
+contacts
+{VALUE}
+如果只是聊天的話，直接私訊就可以囉
+
+Telegram 並沒有好友的機制，只要互相分享電話號碼，就能成為聯絡人了
+
+{QUESTION}
+怎麼中文化
+{KEYS}
+zh-tw
+chinese
+{VALUE}
+點擊下面連結，就會自動套用中文了
+https://t.me/setlanguage/taiwan
+
+當然也有些不同的翻譯，不妨嘗試看看惡搞版魔法師翻譯 :)
+https://t.me/setlanguage/encha
+
+{QUESTION}
+哪裡可以找到其他群組
+{KEYS}
+groups
+chats
+{VALUE}
+各式不同群組，都能在這些地方詢問、宣傳
+
+🇹 🇼 台灣群組導航： https://t.me/ChatTW
+📢 群組廣播站 (http://t.me/TopicsTW)： https://t.me/TopicsTW
+👥 群組推廣： https://t.me/tgroupsforzh
+群組導航： https://t.me/navi_group_share
+更多群組： https://t.me/moregroup
+
+群組搜集君： https://tg.gnehs.net/
+中文群組索引： http://www.telegram.url.tw/
+
+{QUESTION}
+你這模板哪裡來的呀
+根本是來葉配的吧
+{KEYS}
+repo
+{VALUE}
+本模板由台灣 Telegram 管理群共同維護
+
+請見 GitHub Repo
+https://github.com/Sea-n/Telegreat-Tsupport-Taiwan-Templates
