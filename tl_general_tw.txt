@@ -60,7 +60,7 @@ chats
 {VALUE}
 各式不同群組，都能在這些地方詢問、宣傳
 
-🇹 🇼 台灣群組導航： https://t.me/ChatTW
+🇹🇼 台灣群組導航： https://t.me/ChatTW
 📢 群組廣播站 (http://t.me/TopicsTW)： https://t.me/TopicsTW
 👥 群組推廣： https://t.me/tgroupsforzh
 群組導航： https://t.me/navi_group_share
