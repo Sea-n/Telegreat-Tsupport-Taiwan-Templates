@@ -41,6 +41,18 @@ https://t.me/setlanguage/taiwan
 https://t.me/setlanguage/encha
 
 {QUESTION}
+為什麼有些群組進不去
+{KEYS}
+ios-porn
+{VALUE}
+這通常代表您正在使用 iPhone 看營養內容
+
+根據 Apple 政策，要求 Telegram 封鎖這類內容
+
+您可以使用網頁版來繞過此限制
+https://web.telegre.at/
+
+{QUESTION}
 哪裡可以找到其他群組
 {KEYS}
 groups
