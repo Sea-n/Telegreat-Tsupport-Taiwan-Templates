@@ -70,6 +70,30 @@ chats
 中文群組索引： http://www.telegram.url.tw/
 
 {QUESTION}
+會像 LINE 一樣吃空間嗎
+{KEYS}
+storage-usage
+keep-media
+{VALUE}
+手機版 Telegram 有個選項可以幫你自動清除用不到的檔案
+
+在設定 -> 資料與儲存 -> 儲存空間用量 中有個「保留媒體」選項
+
+預設是「永遠」不清除，可以調整為「一週」讓他自動清理
+
+所有檔案仍會在 Telegram 雲端永久保存，當你點開訊息時，會再自動載回來，不會因此遺失資料
+
+{QUESTION}
+怎麼對同事隱藏自己的帳號
+{KEYS}
+privacy
+hide-account
+{VALUE}
+目前沒有變透明的機制喔，只要有你的電話號碼，就會看到你已加入
+
+如果想跟現實生活抽離，可以辦個預付卡來註冊帳號，他們並不會知道誰有他的電話號碼
+
+{QUESTION}
 你這模板哪裡來的呀
 根本是來葉配的吧
 {KEYS}
