@@ -49,7 +49,10 @@ ios-porn
 
 根據 Apple 政策，要求 Telegram 封鎖這類內容
 
-您可以使用網頁版來繞過此限制
+您可以使用官方網頁版來繞過此限制
+https://web.telegram.org/
+
+或是繁體中文網頁版
 https://web.telegre.at/
 
 {QUESTION}
