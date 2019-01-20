@@ -70,6 +70,17 @@ chats
 中文群組索引： http://www.telegram.url.tw/
 
 {QUESTION}
+朋友傳的影片上的雲朵圖案代表什麼
+{KEYS}
+cloud-streaming-video
+{VALUE}
+影片、音樂播放鈕上的雲朵圖案代表支援串流功能
+
+你可以不用像 LINE 那樣要等整個影片載完才能播放
+
+而是像看 YouTube 一樣邊播邊載，減少等待時間
+
+{QUESTION}
 會像 LINE 一樣吃空間嗎
 {KEYS}
 storage-usage
