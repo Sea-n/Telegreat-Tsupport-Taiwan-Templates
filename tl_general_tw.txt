@@ -13,6 +13,36 @@ KEYS 不分大小寫，以 i 結尾代表 iOS、a 代表 Android、wp 代表 Win
 
 
 {QUESTION}
+有中文版嗎
+{KEYS}
+chinese
+{VALUE}
+目前還沒有內建中文，您可以用 https://t.me/setlanguage/taiwan 手動設定喔 😊
+
+{QUESTION}
+安安你好
+{KEYS}
+hi
+{VALUE}
+您好，需要什麼協助嗎 🙃
+
+{QUESTION}
+怎麼加好友
+{KEYS}
+contact
+{VALUE}
+您說加好友嗎？
+Telegram 只要有 @username 就能聯絡囉，不需要先添加聯絡人 🙃
+
+{QUESTION}
+你是機器人嗎
+{KEYS}
+bot
+{VALUE}
+您好，這個帳號不只是機器人喔 🙃
+除了自動回覆外，有許多志願者在背後為您回答問題
+
+{QUESTION}
 台灣用 Telegram 的人多嗎
 {KEYS}
 population

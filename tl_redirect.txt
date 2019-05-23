@@ -1,10 +1,6 @@
 {URL}
 https://raw.githubusercontent.com/Sea-n/Telegreat-Tsupport-Taiwan-Templates/master/tl_redirect.txt
 
-{COMMENT}
-These templates can be used to forward users to other TSF teams.
-Quite handy if the user is speaking in a language you don't understand.
-
 {QUESTION}
 Forward to DE
 {KEYS}
@@ -17,12 +13,10 @@ PS: Unter https://t.me/telegramDE hat das Helfer-Team einen Infokanal eingericht
 
 {QUESTION}
 Forward to FR
-{COMMENT}
-If your support account is +42400, please don't use this one. ;)
 {KEYS}
 fr
 {VALUE}
-contact:+42400 Support France
+contact:+42400 Global Support
 Bonjour, malheureusement je ne peux pas vous répondre en Français. Si vous ne comprenez pas l'Anglais, pourriez vous contacter notre support International au +42400? Nous n'avons pas beaucoup de francophones dans l'équipe, cela peut donc prendre un peu de temps pour vous répondre... Désolé pour le délai.
 
 {QUESTION}
@@ -38,7 +32,7 @@ Forward to NL
 {KEYS}
 nl
 {VALUE}
-contact:+42431 Support Nederland
+contact:+42400 Global Support
 Neem dan contact op met ons lokale support team.
 
 {QUESTION}
@@ -46,7 +40,7 @@ Forward to ES
 {KEYS}
 es
 {VALUE}
-contact:+42434 Soporte España
+contact:+42434 Spanish Support
 Por favor, ponte en contacto con nuestro equipo de soporte local en España.
 
 {QUESTION}
@@ -54,7 +48,7 @@ Forward to IT
 {KEYS}
 it
 {VALUE}
-contact:+42439 Supporto Italia
+contact:+42439 Assistenza in italiano
 Si prega di contattare il nostro team di supporto Italiano.
 
 {QUESTION}
@@ -103,14 +97,8 @@ Olá! Infelizmente não entendemos português, mas nós temos uma equipe no Bras
 Forward to ID
 {KEYS}
 id
-{VALUA}
-contact:+42460 Dukungan Asia Tenggara
-Silahkan hubungi tim dukungan lokal kami di Asia Tenggara.
-
 {QUESTION}
 Forward to MY
-{KEYS}
-my
 {VALUE}
 contact:+42460 Sokongan Asia Tenggara
 Sila hubungi pasukan sokongan tempatan kami di Asia Tenggara.
@@ -133,10 +121,8 @@ contact:+424960 Arabic Support
 
 {QUESTION}
 Forward to IR
-{COMMENT}
-Please don't use this template for spam-related questions, we can redirect these users to @spambot right away.
 {KEYS}
 ir
 {VALUE}
-contact:+424980 Support Iran
+contact:+424980 Persian Support
 سلام! متأسفانه ما فارسی بلد نيستيم، ولى یک گروه داوطلبان فارسى زبان داریم. لطفاً به آنها تماس بگيريد. سپاسگزاريم!
