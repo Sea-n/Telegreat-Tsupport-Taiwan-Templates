@@ -16,8 +16,47 @@ KEYS 不分大小寫，以 i 結尾代表 iOS、a 代表 Android、wp 代表 Win
 有中文版嗎
 {KEYS}
 chinese
+zh-tw
 {VALUE}
-目前還沒有內建中文，您可以用 https://t.me/setlanguage/taiwan 手動設定喔 😊
+目前 Telegram 有在規劃推出內建中文，但由於還不是很完整，您無法在設定介面找到，需要手動點擊下面這個連結設定喔
+https://t.me/setlanguage/zh-hant-beta
+
+另外，除了官方的繁體中文外，也有許多由志願者們發起的語言包，我個人推薦使用這套
+https://t.me/setlanguage/taiwan
+
+有任何使用疑問或是發現翻譯錯誤都歡迎說一聲 😊
+
+
+
+{QUESTION}
+有中文版嗎
+{KEYS}
+chinese
+zh-hk
+{VALUE}
+目前 Telegram 有在規劃推出內建中文，但由於還不是很完整，您無法在設定介面找到，需要手動點擊下面這個連結設定喔
+https://t.me/setlanguage/zh-hant-beta
+
+另外，除了官方的繁體中文外，也有許多由志願者們發起的語言包，我個人推薦使用這套
+https://t.me/setlanguage/hongkong
+
+有任何使用疑問或是發現翻譯錯誤都歡迎說一聲 😊
+
+
+{QUESTION}
+有簡體中文嗎
+{KEYS}
+chinese
+zh-cn
+{VALUE}
+目前 Telegram 有在規劃推出內建中文，但由於還不是很完整，您無法在設定介面找到，需要手動點擊下面這個連結設定喔
+https://t.me/setlanguage/zh-hans-beta
+
+另外，有許多由志願者們發起的語言包，我個人推薦使用較為完整的這套
+https://t.me/setlanguage/classic-zh-cn
+
+有任何使用疑問或是發現翻譯錯誤都歡迎說一聲 😊
+
 
 {QUESTION}
 安安你好
@@ -26,13 +65,37 @@ hi
 {VALUE}
 您好，需要什麼協助嗎 🙃
 
+
+{QUESTION}
+在嗎？
+{KEYS}
+old
+{VALUE}
+抱歉現在才回覆您的訊息 😓
+
+請問現在還有什麼我可以幫忙的嗎？ 😊
+
+
+{QUESTION}
+沒問題，只是晃晃
+{KEYS}
+nothing
+{VALUE}
+好滴，有任何疑問都歡迎隨時提出喔 🙃
+Have a nice day!
+
+
 {QUESTION}
 怎麼加好友
 {KEYS}
 contact
 {VALUE}
 您說加好友嗎？
-Telegram 只要有 @username 就能聯絡囉，不需要先添加聯絡人 🙃
+
+如果只是聊天的話，只要有 @username 就能直接私訊囉，不需要先添加聯絡人 🙃
+
+Telegram 並沒有好友的機制，只要互相分享電話號碼，就能成為聯絡人了
+
 
 {QUESTION}
 你是機器人嗎
@@ -42,6 +105,15 @@ bot
 您好，這個帳號不只是機器人喔 🙃
 除了自動回覆外，有許多志願者在背後為您回答問題
 
+
+
+{COMMENT}
+=================================
+-UNOFFICIAL USE-
+=================================
+
+
+
 {QUESTION}
 台灣用 Telegram 的人多嗎
 {KEYS}
@@ -49,26 +121,6 @@ population
 {VALUE}
 就少少幾隻肥宅，邊緣人才用 Telegram
 
-{QUESTION}
-該怎麼添加對方為聯絡人
-{KEYS}
-contacts
-{VALUE}
-如果只是聊天的話，直接私訊就可以囉
-
-Telegram 並沒有好友的機制，只要互相分享電話號碼，就能成為聯絡人了
-
-{QUESTION}
-怎麼中文化
-{KEYS}
-zh-tw
-chinese
-{VALUE}
-點擊下面連結，就會自動套用中文了
-https://t.me/setlanguage/taiwan
-
-當然也有些不同的翻譯，不妨嘗試看看惡搞版魔法師翻譯 :)
-https://t.me/setlanguage/encha
 
 {QUESTION}
 為什麼有些群組進不去
