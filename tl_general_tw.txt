@@ -80,9 +80,23 @@ old
 沒問題，只是晃晃
 {KEYS}
 nothing
+end
 {VALUE}
 好滴，有任何疑問都歡迎隨時提出喔 🙃
 Have a nice day!
+#end
+
+{QUESTION}
+你是誰
+{KEYS}
+who-are-you
+are-you-bot
+{VALUE}
+我們是 Telegram 支援團隊，幫助用戶排除問題
+
+除了自動回覆外，這個帳號由世界各地數十位志願者們在背後為您解決困難
+#end
+
 
 
 {QUESTION}
@@ -96,14 +110,32 @@ contact
 
 Telegram 並沒有好友的機制，只要互相分享電話號碼，就能成為聯絡人了
 
+{QUESTION}
+哪裡可以找到其他群組
+{KEYS}
+groups
+chats
+{VALUE}
+官方並沒有提供公開群組搜尋的功能喔
+
+這邊我個人推薦您幾個非官方的管道，各式不同群組，都能在這些地方詢問、宣傳
+
+🇹🇼 台灣群組導航： https://t.me/ChatTW
+📢 群組廣播站： https://t.me/TopicsTW
+👥 群組推廣： https://t.me/tgroupsforzh
+👥 群組導航： https://t.me/navi_group_share
+🇨🇳 中國群組索引： https://t.me/zh_groups_bot
+➕ 更多群組： https://t.me/moregroup
+
+
 
 {QUESTION}
-你是機器人嗎
+無法私訊非聯絡人
 {KEYS}
-bot
+spam
+china
 {VALUE}
-您好，這個帳號不只是機器人喔 🙃
-除了自動回覆外，有許多志願者在背後為您回答問題
+您好，新用戶會有幾週的限制，您也可以向 @SpamBot 申請人工解封喔
 
 
 
@@ -136,23 +168,6 @@ https://web.telegram.org/
 
 或是繁體中文網頁版
 https://web.telegre.at/
-
-{QUESTION}
-哪裡可以找到其他群組
-{KEYS}
-groups
-chats
-{VALUE}
-各式不同群組，都能在這些地方詢問、宣傳
-
-🇹🇼 台灣群組導航： https://t.me/ChatTW
-📢 群組廣播站： https://t.me/TopicsTW
-👥 群組推廣： https://t.me/tgroupsforzh
-群組導航： https://t.me/navi_group_share
-更多群組： https://t.me/moregroup
-
-群組搜集君： https://tg.gnehs.net/
-中文群組索引： http://www.telegram.url.tw/
 
 {QUESTION}
 朋友傳的影片上的雲朵圖案代表什麼
