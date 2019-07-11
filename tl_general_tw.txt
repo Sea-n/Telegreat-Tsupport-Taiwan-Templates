@@ -1,4 +1,5 @@
-{URL}
+{COMMENT}
+#{URL}
 https://raw.githubusercontent.com/Sea-n/Telegreat-Tsupport-Taiwan-Templates/master/tl_general_tw.txt
 
 {COMMENT}
@@ -13,7 +14,7 @@ KEYS 不分大小寫，以 i 結尾代表 iOS、a 代表 Android、wp 代表 Win
 
 
 {QUESTION}
-有中文版嗎
+有台灣中文版嗎
 {KEYS}
 chinese
 zh-tw
@@ -25,11 +26,12 @@ https://t.me/setlanguage/zh-hant-beta
 https://t.me/setlanguage/taiwan
 
 有任何使用疑問或是發現翻譯錯誤都歡迎說一聲 😊
+#end
 
 
 
 {QUESTION}
-有中文版嗎
+有香港中文版嗎
 {KEYS}
 chinese
 zh-hk
@@ -41,6 +43,7 @@ https://t.me/setlanguage/zh-hant-beta
 https://t.me/setlanguage/hongkong
 
 有任何使用疑問或是發現翻譯錯誤都歡迎說一聲 😊
+#end
 
 
 {QUESTION}
@@ -56,6 +59,7 @@ https://t.me/setlanguage/zh-hans-beta
 https://t.me/setlanguage/classic-zh-cn
 
 有任何使用疑問或是發現翻譯錯誤都歡迎說一聲 😊
+#end
 
 
 {QUESTION}
@@ -63,7 +67,7 @@ https://t.me/setlanguage/classic-zh-cn
 {KEYS}
 hi
 {VALUE}
-您好，需要什麼協助嗎 🙃
+您好，在 Telegram 使用上需要什麼協助嗎 🙃
 
 
 {QUESTION}
@@ -92,10 +96,22 @@ Have a nice day!
 who-are-you
 are-you-bot
 {VALUE}
-我們是 Telegram 支援團隊，幫助用戶排除問題
+我們是 Telegram 支援團隊，幫助用戶排除 Telegram 使用上的問題
 
 除了自動回覆外，這個帳號由世界各地數十位志願者們在背後為您解決困難
 #end
+
+
+{QUESTION}
+幫我解除封鎖
+{KEYS}
+banned
+unban
+spam
+{VALUE}
+我們團隊只能幫助用戶排除 Telegram 使用上的問題，並沒有封鎖、解封等權限
+
+您需要用英文聯絡 @SpamBot 官方機器人，才有可能解除封鎖
 
 
 
@@ -104,11 +120,11 @@ are-you-bot
 {KEYS}
 contact
 {VALUE}
-您說加好友嗎？
-
 如果只是聊天的話，只要有 @username 就能直接私訊囉，不需要先添加聯絡人 🙃
 
 Telegram 並沒有好友的機制，只要互相分享電話號碼，就能成為聯絡人了
+#end
+
 
 {QUESTION}
 哪裡可以找到其他群組
@@ -126,6 +142,7 @@ chats
 👥 群組導航： https://t.me/navi_group_share
 🇨🇳 中國群組索引： https://t.me/zh_groups_bot
 ➕ 更多群組： https://t.me/moregroup
+#end
 
 
 
@@ -136,7 +153,110 @@ spam
 china
 {VALUE}
 您好，新用戶會有幾週的限制，您也可以向 @SpamBot 申請人工解封喔
+#end
 
+
+{QUESTION}
+如何更新版本 (Android)
+{KEYS}
+update
+dla
+{VALUE}
+您現在用的是非官方版本
+
+如果您能用 Google Play 的話，這裡是下載連結：
+https://play.google.com/store/apps/details?id=org.telegram.messenger
+
+或是直接下載 apk 檔：
+https://rink.hockeyapp.net/apps/c75f5ad22dbf45319a24ff0f8c9c13cc
+#end
+
+
+{QUESTION}
+如何更新版本 (iOS)
+{KEYS}
+update
+dli
+{VALUE}
+您現在用的是非官方版本
+
+請從 App Store 下載最新版本 Telegram：
+https://apps.apple.com/tw/app/telegram-messenger/id686449807
+#end
+
+
+{QUESTION}
+如何更新版本 (Desktop)
+{KEYS}
+update
+dld
+{VALUE}
+您可以到官方網站下載電腦版：
+https://desktop.telegram.org/
+#end
+
+
+{QUESTION}
+怎麼刪除帳號
+{KEYS}
+da
+{VALUE}
+請問您怎麼會想刪除帳號呢？
+因為一但刪除後，就再也無法反悔了，希望可以聽聽您的理由，或許可以用其他更好的方式來解決問題
+
+
+{QUESTION}
+聯絡本帳號
+{KEYS}
+share general support
+{VALUE}
+contact:+42400 Global Support（中文客服）
+嗨，這是我的聯絡資訊
+歡迎加入聯絡人，或是轉發給其他使用者
+#end
+
+
+{QUESTION}
+為什麼有些群組進不去
+{KEYS}
+ios-porn
+{VALUE}
+這通常代表您正在使用 iPhone 看營養內容
+
+根據 Apple 政策，要求 Telegram 封鎖這類內容
+
+您可以使用網頁版來繞過此限制
+https://web.telegram.org/
+#end
+
+
+{QUESTION}
+怎麼更換電話號碼
+{KEYS}
+change
+phone
+number
+{VALUE}
+您更換號碼後，將能保留聯絡人、群組、聊天記錄等所有資料
+
+在設定裡面，點擊您的電話號碼，就會跳出更換號碼的選項了
+
+記住，更換前請先確認目標門號並未註冊 Telegram 帳號
+#end
+
+
+{QUESTION}
+中文搜尋
+{KEYS}
+chinese
+search
+{VALUE}
+目前華人對這塊不夠積極，官方沒充分理由實作此項功能，請和您當地群組討論可以怎麼向官方建議
+
+這些非官方群組給您參考
+🇹🇼 @PublicGroupForzh
+🇭🇰 @tlgrmHK
+🇨🇳 @cnpub
 
 
 {COMMENT}
@@ -152,22 +272,6 @@ china
 population
 {VALUE}
 就少少幾隻肥宅，邊緣人才用 Telegram
-
-
-{QUESTION}
-為什麼有些群組進不去
-{KEYS}
-ios-porn
-{VALUE}
-這通常代表您正在使用 iPhone 看營養內容
-
-根據 Apple 政策，要求 Telegram 封鎖這類內容
-
-您可以使用官方網頁版來繞過此限制
-https://web.telegram.org/
-
-或是繁體中文網頁版
-https://web.telegre.at/
 
 {QUESTION}
 朋友傳的影片上的雲朵圖案代表什麼
@@ -209,6 +313,7 @@ hide-account
 根本是來葉配的吧
 {KEYS}
 repo
+template
 {VALUE}
 本模板由台灣 Telegram 管理群共同維護
 
