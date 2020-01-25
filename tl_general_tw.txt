@@ -22,9 +22,6 @@ zh-tw
 目前 Telegram 有在規劃推出內建中文，但由於還不是很完整，您無法在設定介面找到，需要手動點擊下面這個連結設定喔
 https://t.me/setlanguage/zh-hant-beta
 
-另外，除了官方的繁體中文外，也有許多由志願者們發起的語言包，我個人推薦使用這套
-https://t.me/setlanguage/taiwan
-
 有任何使用疑問或是發現翻譯錯誤都歡迎說一聲 😊
 #end
 
@@ -120,9 +117,9 @@ spam
 {KEYS}
 contact
 {VALUE}
-如果只是聊天的話，只要有 @username 就能直接私訊囉，不需要先添加聯絡人 🙃
+請問您說的加好友是為了什麼？
 
-Telegram 並沒有好友的機制，只要互相分享電話號碼，就能成為聯絡人了
+如果只是聊天的話，只要有 @username 就能直接私訊囉，不需要先添加聯絡人 🙃
 #end
 
 
@@ -144,6 +141,16 @@ chats
 ➕ 更多群組： https://t.me/moregroup
 #end
 
+
+{QUESTION}
+貼圖群組
+{KEYS}
+stickers
+{VALUE}
+可以點熱門貼圖，會出現幾十包官方推薦的貼圖包
+
+或是這裡有非官方的交流群： t.me/StickerGroup
+#end
 
 
 {QUESTION}
@@ -168,7 +175,7 @@ dla
 https://play.google.com/store/apps/details?id=org.telegram.messenger
 
 或是直接下載 apk 檔：
-https://rink.hockeyapp.net/apps/c75f5ad22dbf45319a24ff0f8c9c13cc
+https://telegram.org/dl/android/apk
 #end
 
 
@@ -197,12 +204,46 @@ https://desktop.telegram.org/
 
 
 {QUESTION}
-怎麼刪除帳號
+我想刪除帳號
 {KEYS}
 da
 {VALUE}
 請問您怎麼會想刪除帳號呢？
 因為一但刪除後，就再也無法反悔了，希望可以聽聽您的理由，或許可以用其他更好的方式來解決問題
+
+
+{QUESTION}
+怎麼刪除帳號？
+{KEYS}
+del
+delete
+deactivate
+deleteaccount
+deactivateaccount
+{VALUE}
+複製這個連結並在瀏覽器打開：
+https://telegram.org/deactivate
+（能用電腦版更好）
+
+- 我們會透過 Telegram 訊息寄送登入驗證碼給您（並非簡訊）
+- 永遠只在確定不再使用 Telegram 時刪除帳號，請記得您無法馬上重新註冊
+
+更多細節可以看這邊英文指南
+http://telegra.ph/delete-telegram-account-FAQ
+
+
+{QUESTION}
+怎麼復原已刪除的訊息
+{KEYS}
+deleted
+message
+dm
+{VALUE}
+訊息一但刪除後，就再也找不回來囉 😢
+
+你可以問問對方，請他把以前的訊息轉發或是截圖給你
+
+下次請小心別誤觸了，如果是怕占容量的話，有辦法定時清理本機端的空間，保留在雲端的紀錄基本上永遠不會消失
 
 
 {QUESTION}
@@ -257,6 +298,19 @@ search
 🇹🇼 @PublicGroupForzh
 🇭🇰 @tlgrmHK
 🇨🇳 @cnpub
+
+
+{QUESTION}
+翻牆教學
+{KEYS}
+gfw
+china
+proxy
+{VALUE}
+這邊只能針對 Telegram 使用上做回覆，對於中國的網路環境我們無法提供協助
+
+您可以找中國朋友問問看，像是這個非官方交流群組：
+https://t.me/cnpub
 
 
 {COMMENT}
